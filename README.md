@@ -52,7 +52,6 @@
 * Annovar.xlsx - результаты работы annovar в формате .xlsx
 * SpirovaVV_WES_data_analysis_report.pdf - полный отчет по результатам проекта
 * open_cravat.sqlite - результаты аннотации итогового .vcf в Open Cravat
-* wes_data_analysis_protocol.txt - протокол команд в командной строке Linux
 
 
 ### Дополнительные ресурсы:
